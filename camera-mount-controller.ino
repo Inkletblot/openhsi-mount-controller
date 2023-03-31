@@ -58,7 +58,7 @@ Direction current_direction;
 // current microstep setting for the stepper and defined timed_pulse_width below
 // may cause the stepper to malfunction.
 //---------------------------------------------------------------------------//
-const int TOTAL_SECONDS = 25;
+const int TOTAL_SECONDS = 45;
 
 const int PUL_PER_REV = 1600;
 
