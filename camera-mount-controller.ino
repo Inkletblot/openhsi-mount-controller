@@ -10,7 +10,6 @@
 //
 // Good default pulse widths:
 // Microsetp Pulse/Rev S1 S2 S3 Default
-// 1         200       1  1  0  700
 // 8         1600      0  1  0  60
 //
 // The Stepper being used is a 23H-D56001Y-32B from Maker Store. It is rated for
